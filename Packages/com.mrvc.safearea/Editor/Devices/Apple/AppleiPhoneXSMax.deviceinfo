@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Apple iPhone XS Max",
+    "screens": [
+        {
+            "width": 1242,
+            "height": 2688,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1242.0,
+                        "height": 2454.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 132.0,
+                        "y": 63.0,
+                        "width": 2424.0,
+                        "height": 1179.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 132.0,
+                        "y": 63.0,
+                        "width": 2424.0,
+                        "height": 1179.0
+                    }
+                }
+            ]
+        }
+    ]
+}

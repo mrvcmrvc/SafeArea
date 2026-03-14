@@ -1,0 +1,20 @@
+{
+    "friendlyName": "Samsung Galaxy S23 Ultra",
+    "screens": [
+        {
+            "width": 1440,
+            "height": 3088,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 2983.0
+                    }
+                }
+            ]
+        }
+    ]
+}

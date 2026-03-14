@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Motorola Moto G7 Power",
+    "screens": [
+        {
+            "width": 720,
+            "height": 1520,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 720.0,
+                        "height": 1467.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 53.0,
+                        "y": 0.0,
+                        "width": 1467.0,
+                        "height": 720.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1467.0,
+                        "height": 720.0
+                    }
+                }
+            ]
+        }
+    ]
+}

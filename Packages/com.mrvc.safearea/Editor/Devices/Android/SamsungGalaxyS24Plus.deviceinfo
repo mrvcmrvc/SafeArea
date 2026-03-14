@@ -1,0 +1,20 @@
+{
+    "friendlyName": "Samsung Galaxy S24+",
+    "screens": [
+        {
+            "width": 1440,
+            "height": 3120,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 3015.0
+                    }
+                }
+            ]
+        }
+    ]
+}

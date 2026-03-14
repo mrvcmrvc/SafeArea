@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPad Pro 10.15",
+    "screens": [
+        {
+            "width": 1668,
+            "height": 2224,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1668.0,
+                        "height": 2224.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1668.0,
+                        "height": 2224.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2224.0,
+                        "height": 1668.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2224.0,
+                        "height": 1668.0
+                    }
+                }
+            ]
+        }
+    ]
+}

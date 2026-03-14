@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Xiaomi Redmi Note 7",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2340,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2260.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 80.0,
+                        "y": 0.0,
+                        "width": 2260.0,
+                        "height": 1080.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2260.0,
+                        "height": 1080.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPhone 12 Pro Max",
+    "screens": [
+        {
+            "width": 1284,
+            "height": 2778,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1284.0,
+                        "height": 2535.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 141.0,
+                        "width": 1284.0,
+                        "height": 2535.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 141.0,
+                        "y": 63.0,
+                        "width": 2496.0,
+                        "height": 1221.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 141.0,
+                        "y": 63.0,
+                        "width": 2496.0,
+                        "height": 1221.0
+                    }
+                }
+            ]
+        }
+    ]
+}

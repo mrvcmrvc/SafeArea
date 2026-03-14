@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPhone SE (2nd generation)",
+    "screens": [
+        {
+            "width": 750,
+            "height": 1334,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 750.0,
+                        "height": 1334.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 750.0,
+                        "height": 1334.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1334.0,
+                        "height": 750.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1334.0,
+                        "height": 750.0
+                    }
+                }
+            ]
+        }
+    ]
+}

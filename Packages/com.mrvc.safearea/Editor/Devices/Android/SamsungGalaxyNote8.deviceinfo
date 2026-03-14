@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Samsung Galaxy Note8",
+    "screens": [
+        {
+            "width": 1440,
+            "height": 2960,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 2960.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2960.0,
+                        "height": 1440.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2960.0,
+                        "height": 1440.0
+                    }
+                }
+            ]
+        }
+    ]
+}

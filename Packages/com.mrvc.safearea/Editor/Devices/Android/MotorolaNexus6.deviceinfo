@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Motorola Nexus 6",
+    "screens": [
+        {
+            "width": 1440,
+            "height": 2560,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 2560.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1440.0,
+                        "height": 2560.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2560.0,
+                        "height": 1440.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2560.0,
+                        "height": 1440.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Nvidia Shield Tablet",
+    "screens": [
+        {
+            "width": 1200,
+            "height": 1920,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1200.0,
+                        "height": 1920.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1200.0,
+                        "height": 1920.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1920.0,
+                        "height": 1200.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1920.0,
+                        "height": 1200.0
+                    }
+                }
+            ]
+        }
+    ]
+}

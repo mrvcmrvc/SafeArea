@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPad Pro 12.9 (2018)",
+    "screens": [
+        {
+            "width": 2048,
+            "height": 2732,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2048.0,
+                        "height": 2692.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2048.0,
+                        "height": 2692.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2732.0,
+                        "height": 2008.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2732.0,
+                        "height": 2008.0
+                    }
+                }
+            ]
+        }
+    ]
+}

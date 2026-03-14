@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Motorola Moto E",
+    "screens": [
+        {
+            "width": 540,
+            "height": 960,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 540.0,
+                        "height": 960.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 540.0,
+                        "height": 960.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 960.0,
+                        "height": 540.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 960.0,
+                        "height": 540.0
+                    }
+                }
+            ]
+        }
+    ]
+}

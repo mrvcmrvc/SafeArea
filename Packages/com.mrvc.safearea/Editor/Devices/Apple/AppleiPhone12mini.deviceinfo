@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPhone 12 mini",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2338,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 97.0,
+                        "width": 1080.0,
+                        "height": 2096.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 144.0,
+                        "width": 1080.0,
+                        "height": 2096.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 144.0,
+                        "y": 60.0,
+                        "width": 2050.0,
+                        "height": 1019.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 144.0,
+                        "y": 60.0,
+                        "width": 2050.0,
+                        "height": 1019.0
+                    }
+                }
+            ]
+        }
+    ]
+}

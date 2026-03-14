@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Xiaomi Mi A3",
+    "screens": [
+        {
+            "width": 720,
+            "height": 1560,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 720.0,
+                        "height": 1507.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 53.0,
+                        "width": 720.0,
+                        "height": 1507.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 53.0,
+                        "y": 0.0,
+                        "width": 1507.0,
+                        "height": 720.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1507.0,
+                        "height": 720.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Xiaomi Redmi 6 Pro",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2280,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2191.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 89.0,
+                        "y": 0.0,
+                        "width": 2191.0,
+                        "height": 1080.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2191.0,
+                        "height": 1080.0
+                    }
+                }
+            ]
+        }
+    ]
+}

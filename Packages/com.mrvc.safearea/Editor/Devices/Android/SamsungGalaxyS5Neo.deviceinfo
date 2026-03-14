@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Samsung Galaxy S5 Neo",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 1920,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 1920.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 1920.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1920.0,
+                        "height": 1080.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1920.0,
+                        "height": 1080.0
+                    }
+                }
+            ]
+        }
+    ]
+}

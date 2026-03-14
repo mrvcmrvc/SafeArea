@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPod Touch 7th Gen",
+    "screens": [
+        {
+            "width": 640,
+            "height": 1136,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 640.0,
+                        "height": 1136.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 640.0,
+                        "height": 1136.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1136.0,
+                        "height": 640.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1136.0,
+                        "height": 640.0
+                    }
+                }
+            ]
+        }
+    ]
+}

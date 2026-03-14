@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Samsung Galaxy Z Flip3 5G",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2640,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2546.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 94.0,
+                        "width": 1080.0,
+                        "height": 2546.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 94.0,
+                        "y": 0.0,
+                        "width": 2546.0,
+                        "height": 1080.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2546.0,
+                        "height": 1080.0
+                    }
+                }
+            ]
+        }
+    ]
+}

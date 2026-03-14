@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Apple iPhone XS",
+    "screens": [
+        {
+            "width": 1125,
+            "height": 2436,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1125.0,
+                        "height": 2202.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 132.0,
+                        "y": 63.0,
+                        "width": 2172.0,
+                        "height": 1062.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 132.0,
+                        "y": 63.0,
+                        "width": 2172.0,
+                        "height": 1062.0
+                    }
+                }
+            ]
+        }
+    ]
+}

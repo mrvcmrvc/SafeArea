@@ -1,0 +1,20 @@
+{
+    "friendlyName": "Apple iPhone 15 Plus",
+    "screens": [
+        {
+            "width": 1290,
+            "height": 2796,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1290.0,
+                        "height": 2517.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "friendlyName": "Apple iPhone 17 Pro",
+    "screens": [
+        {
+            "width": 1206,
+            "height": 2622,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1206.0,
+                        "height": 2334.0
+                    }
+                }
+            ]
+        }
+    ]
+}

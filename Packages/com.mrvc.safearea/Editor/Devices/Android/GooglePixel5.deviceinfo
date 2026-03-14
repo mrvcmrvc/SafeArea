@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Google Pixel 5",
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2340,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2204.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 136.0,
+                        "width": 1080.0,
+                        "height": 2204.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 136.0,
+                        "y": 0.0,
+                        "width": 2204.0,
+                        "height": 1080.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2204.0,
+                        "height": 1080.0
+                    }
+                }
+            ]
+        }
+    ]
+}

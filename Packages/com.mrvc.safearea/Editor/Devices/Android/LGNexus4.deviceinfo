@@ -1,0 +1,47 @@
+{
+    "friendlyName": "LG Nexus 4",
+    "screens": [
+        {
+            "width": 768,
+            "height": 1280,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 768.0,
+                        "height": 1280.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 768.0,
+                        "height": 1280.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1280.0,
+                        "height": 768.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1280.0,
+                        "height": 768.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Samsung Galaxy Z Fold2 5G",
+    "screens": [
+        {
+            "width": 960,
+            "height": 2658,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 960.0,
+                        "height": 2566.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 92.0,
+                        "width": 960.0,
+                        "height": 2566.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 92.0,
+                        "y": 0.0,
+                        "width": 2566.0,
+                        "height": 960.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2566.0,
+                        "height": 960.0
+                    }
+                }
+            ]
+        }
+    ]
+}

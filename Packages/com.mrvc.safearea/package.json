@@ -1,0 +1,30 @@
+{
+  "name": "com.mrvc.safearea",
+  "version": "0.1.0",
+  "displayName": "Safe Area",
+  "description": "Apply the current device safe area to a target RectTransform, with bundled editor preview profiles for common devices.",
+  "unity": "6000.0",
+  "license": "MIT",
+  "keywords": [
+    "safearea",
+    "mobile",
+    "ui",
+    "ugui",
+    "notch"
+  ],
+  "author": {
+    "name": "mrvc",
+    "url": "https://github.com/mrvcmrvc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrvcmrvc/SafeArea.git",
+    "directory": "Packages/com.mrvc.safearea"
+  },
+  "documentationUrl": "https://github.com/mrvcmrvc/SafeArea/blob/main/Packages/com.mrvc.safearea/Documentation~/index.md",
+  "changelogUrl": "https://github.com/mrvcmrvc/SafeArea/blob/main/Packages/com.mrvc.safearea/CHANGELOG.md",
+  "licensesUrl": "https://github.com/mrvcmrvc/SafeArea/blob/main/Packages/com.mrvc.safearea/LICENSE.md",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  }
+}

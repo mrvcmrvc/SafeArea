@@ -1,0 +1,20 @@
+{
+    "friendlyName": "Apple iPhone 14 Plus",
+    "screens": [
+        {
+            "width": 1284,
+            "height": 2778,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 102.0,
+                        "width": 1284.0,
+                        "height": 2535.0
+                    }
+                }
+            ]
+        }
+    ]
+}

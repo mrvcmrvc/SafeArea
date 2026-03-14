@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPad Air (4th generation)",
+    "screens": [
+        {
+            "width": 1640,
+            "height": 2360,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 1640.0,
+                        "height": 2272.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 1640.0,
+                        "height": 2320.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2360.0,
+                        "height": 1552.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 40.0,
+                        "width": 2360.0,
+                        "height": 1600.0
+                    }
+                }
+            ]
+        }
+    ]
+}

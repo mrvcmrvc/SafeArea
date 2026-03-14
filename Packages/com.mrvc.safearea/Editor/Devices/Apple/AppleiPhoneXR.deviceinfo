@@ -1,0 +1,38 @@
+{
+    "friendlyName": "Apple iPhone XR",
+    "screens": [
+        {
+            "width": 828,
+            "height": 1792,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 68.0,
+                        "width": 828.0,
+                        "height": 1636.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 88.0,
+                        "y": 42.0,
+                        "width": 1616.0,
+                        "height": 786.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 88.0,
+                        "y": 42.0,
+                        "width": 1616.0,
+                        "height": 786.0
+                    }
+                }
+            ]
+        }
+    ]
+}

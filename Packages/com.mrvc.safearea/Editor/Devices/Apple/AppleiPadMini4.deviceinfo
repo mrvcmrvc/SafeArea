@@ -1,0 +1,47 @@
+{
+    "friendlyName": "Apple iPad Mini 4",
+    "screens": [
+        {
+            "width": 1536,
+            "height": 2048,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1536.0,
+                        "height": 2048.0
+                    }
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1536.0,
+                        "height": 2048.0
+                    }
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2048.0,
+                        "height": 1536.0
+                    }
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2048.0,
+                        "height": 1536.0
+                    }
+                }
+            ]
+        }
+    ]
+}
