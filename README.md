@@ -1,33 +1,24 @@
-# MRVC Safe Area
+# Safe Area
 
-`MRVC Safe Area` is a Unity UGUI package that fits a target `RectTransform` to the current device safe area. It is useful for keeping UI away from notches, rounded corners, and system gesture areas.
+`Safe Area` is a Unity UGUI package that fits a target `RectTransform` to the current device safe area. It is useful for keeping UI away from notches, rounded corners, and system gesture areas.
 
-## Install
+## How to install
 
-Install it through OpenUPM:
+<summary>Add from OpenUPM by scoped registry</summary>
 
-```bash
-openupm add com.mrvc.safearea
-```
-
-If you prefer to edit the manifest yourself, add the OpenUPM registry and then install `com.mrvc.safearea`:
-
-```json
-{
-  "scopedRegistries": [
-    {
-      "name": "OpenUPM",
-      "url": "https://package.openupm.com",
-      "scopes": [
-        "com.mrvc"
-      ]
-    }
-  ],
-  "dependencies": {
-    "com.mrvc.safearea": "0.1.0"
-  }
-}
-```
+- open `Edit/Project Settings/Package Manager`
+- add a new Scoped Registry:
+  ```
+  Name: OpenUPM
+  URL:  https://package.openupm.com/
+  Scope(s): com.mrvc
+  ```
+- click <kbd>Save</kbd>
+- open Package Manager
+- click <kbd>+</kbd>
+- select <kbd>Add from Git URL</kbd>
+- paste `com.mrvc.safearea`
+- click <kbd>Add</kbd>
 
 ## Use
 
